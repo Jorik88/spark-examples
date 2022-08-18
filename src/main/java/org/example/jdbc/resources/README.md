@@ -1,4 +1,4 @@
-#Example how read data from MYSQL DB using Spark
+# Example how read data from MYSQL DB using Spark
 
 ## Setup
 ```
